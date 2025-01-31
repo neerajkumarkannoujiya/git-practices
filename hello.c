@@ -3,6 +3,6 @@ int main()
 {
 	int n;
 	scanf("%d",&n);
-	printf("this is in new  %d",n);
+	printf("this is in new changes %d",n);
 	return 0;
 }
